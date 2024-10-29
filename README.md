@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elizaga21 (Elisabet A.)
 - 👀 I’m interested in ...cinema, digital creation and travel around the world.
-- 🌱 I’m currently working in ...Java, Spring Boot, Angular and many more !
+- 🌱 I’m currently working in ...Java and Spring Boot !
 - 💞️ I’m looking to collaborate on ...creative websites and learn more about interesting people
 - 📫 How to reach me ...elisabetaudiovisual@gmail.com
 
